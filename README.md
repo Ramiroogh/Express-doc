@@ -17,7 +17,6 @@ Tipos de implementación, Formas de codificar, lo más actualizado 2024.
 
 
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="./asset/logos-express&type-readme.png" alt="Foto de perfil" style="border-radius: 50%; width: 100px; height: 100px;">
   <p style="flex: 1;">Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologías: Express y TypeScript.</p>
 </div>
 
@@ -25,7 +24,6 @@ Tipos de implementación, Formas de codificar, lo más actualizado 2024.
 
 
 <div class="profile-container">
-  <img src="./asset/ico.jpg" width="200px" height="200px" alt="Foto de perfil" class="profile-image">
   <p>Vivo y desarrollo en Argentina, y estoy emocionado de ofrecerte conocimientos que te ayudarán a mejorar tus habilidades en el desarrollo de aplicaciones web.</p>
 </div>
 
