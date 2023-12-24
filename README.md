@@ -16,10 +16,11 @@ Tipos de implementación, Formas de codificar, lo más actualizado 2024.
 <br>
 
 
-<div style="display: flex; align-items: center; gap: 16px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 16px;">
   <img src="./asset/logos-express&type-readme.png" alt="Foto de perfil" style="border-radius: 50%; width: 100px; height: 100px;">
-  <p>Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologias: Express y TypeScript.</p>
+  <p style="order: 1;">Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologías: Express y TypeScript.</p>
 </div>
+
 
 
 <div class="profile-container">
