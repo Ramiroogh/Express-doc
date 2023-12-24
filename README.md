@@ -17,12 +17,12 @@ Tipos de implementación, Formas de codificar, lo más actualizado 2024.
    <br>
    <p>Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologias: Express y TypeScript.</p>
    <div classname="div__heroLogo__tecnologias__readme">
-      <img src="./asset/logos-express&type-readme.png" alt="Foto de perfil" class="logos-tecnologias-readme">
+      <img src="./asset/logos-express&type-readme.png" width="200px" height="200px" alt="Foto de perfil" class="logos-tecnologias-readme">
    </div>
 </div>
 
 <div class="profile-container">
-  <img src="./asset/ico.jpg" alt="Foto de perfil" class="profile-image">
+  <img src="./asset/ico.jpg" width="200px" height="200px" alt="Foto de perfil" class="profile-image">
   <p>Vivo y desarrollo en Argentina, y estoy emocionado de ofrecerte conocimientos que te ayudarán a mejorar tus habilidades en el desarrollo de aplicaciones web.</p>
 </div>
 
