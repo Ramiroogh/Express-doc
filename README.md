@@ -12,10 +12,11 @@ Tipos de implementación, Formas de codificar, lo más actualizado 2024.
 </head>
 <body>
 <h1 classname="h1-readme">¡Hola, soy <b>Ramiro Navarrete</b>! <img src="https://media.giphy.com/media/2cwPS1zA560EMhufr7/giphy.gif" width="50" height="50"/></h1>
-<div class="hero-readme">
-   
-   <br>
-   <p>Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologias: Express y TypeScript.</p>
+
+<br>
+
+   <div style="display: flex; align-items: center; gap: 16px;>
+    <p>Este repositorio es mi espacio para compartir con vos, las buenas prácticas, fundamentos esenciales, sintaxis, implementaciones y técnicas útiles utilizando las tecnologias: Express y TypeScript.</p>
    <div classname="div__heroLogo__tecnologias__readme">
       <img src="./asset/logos-express&type-readme.png" width="200px" height="200px" alt="Foto de perfil" class="logos-tecnologias-readme">
    </div>
